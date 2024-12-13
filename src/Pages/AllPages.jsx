@@ -8,7 +8,7 @@ import Contact from './Contact';
 const AllPages = () => {
   return (
     <div>
-       <Router>
+       <Router basename='my-profile'>
         <Routes>
         <Route path="/" element={<Home/>}/>
         <Route path="/projects" element={<Projects/>}/>

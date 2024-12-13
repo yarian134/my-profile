@@ -6,7 +6,7 @@ const HomeCard = () => {
             <div className='home-card'>
                 <div className='home-item'>
                     <div className='div1'>
-                        <img src="../Images/Mizan.png" alt="Mizan" />
+                        <img src="../../my-profile/Images/Mizan.png" alt="Mizan" />
                     </div>
 
                 </div>

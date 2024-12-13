@@ -17,7 +17,7 @@ const ProjectCard = () => {
           <h2>Ecommerce</h2>
           <div className='image-filed'>
             <a href="https://mizan1235.github.io/Ecommerce_project/" target='_blank' rel="noreferrer">
-          <img src="../Images/ecommerce.png" alt="Ecommerce" /></a>
+          <img src="../../my-profile/Images/ecommerce.png" alt="Ecommerce" /></a>
           </div>
              
 
@@ -44,7 +44,7 @@ const ProjectCard = () => {
 
         <div className='image-filed'>
             <a href="https://mizan1235.github.io/Job_react_app/" target='_blank' rel="noreferrer">
-          <img src="../Images/job-search.png" alt="Ecommerce" /></a>
+          <img src="../../my-profile/Images/job-search.png" alt="Ecommerce" /></a>
           </div>
           
           <div className='skill-val'>
@@ -68,7 +68,7 @@ const ProjectCard = () => {
           <h2>Weather</h2>
         <div className='image-filed'>
             <a href="https://mizan1235.github.io/Weather/" target='_blank' rel="noreferrer">
-          <img src="../Images/weather.png" alt="Ecommerce" /></a>
+          <img src="../../my-profile/Images/weather.png" alt="Ecommerce" /></a>
           </div>
           
           
